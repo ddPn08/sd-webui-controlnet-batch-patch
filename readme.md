@@ -1,3 +1,9 @@
+# This extension is no longer needed.
+
+Please refer to here for the method of batch processing.
+
+https://github.com/Mikubill/sd-webui-controlnet/discussions/153
+
 # ControlNet Batch Patch
 
 Temporary extension to enable batch processing at https://github.com/Mikubill/sd-webui-controlnet.
